@@ -1,0 +1,13 @@
+IN TERMINAL :
+
+    npm create vite@latest
+    press "Enter"
+    project name : .
+    framework : React
+    varient : js
+    now run :
+       npm install
+       npm run dev
+    
+
+ use the icond and buttons from site :"chakra-ui.com"   
